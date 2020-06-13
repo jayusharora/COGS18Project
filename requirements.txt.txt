@@ -1,0 +1,3 @@
+Requirements for my program:
+- all files have to be in the same directory
+- execute mail_script.py
